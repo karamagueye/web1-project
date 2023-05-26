@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "button-type": "off",
+    "no-inline-styles": "off",
+    "axe/name-role-value": "off",
+    "detect-css-reflows/composite": "off",
+    "axe/forms": "off",
+    "detect-css-reflows/paint": "off"
+  }
+}
